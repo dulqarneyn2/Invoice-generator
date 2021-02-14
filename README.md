@@ -2,7 +2,7 @@
 
 A simple web application to generate invoices.
 
-**Github page link**: https://cherub7.github.io/Invoice-generator/
+
 
 ---
 
